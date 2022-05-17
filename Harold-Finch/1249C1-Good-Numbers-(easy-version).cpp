@@ -1,0 +1,11 @@
+
+/*
+ * Problem: 1249C1 Good-Numbers-(easy-version)
+ * Author: Harold-Finch
+ * Date: Tuesday, October 22, 2019 7:39 PM
+ * Status: Accepted, 202 ms, 0 bytes
+ * Language: GNU C++17
+*/
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
